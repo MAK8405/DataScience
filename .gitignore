@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and debug
+*.log
+
+# Environment variable files
+.env
+*.env
+
+# Data files (optional)
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite3
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Outputs
+*.out
+*.bak
+
+# Matplotlib/Seaborn/etc. cache
+.matplotlib/
+
+# pip wheels
+*.whl
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.cache/
+
+# Pytest coverage
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook runtime
+*.nbconvert.ipynb
+
+# macOS system files
+.DS_Store
+
+# IPython history
+profile_default/
+ipython_config.py
